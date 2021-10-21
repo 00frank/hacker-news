@@ -1,6 +1,6 @@
 {
   "name": "hacker-news",
-  "homepage": "https://00frank.github.io/hacker-news",
+  "homepage": "http://00frank.github.io/hacker-news",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
