@@ -1,8 +1,8 @@
 {
   "name": "hacker-news",
-  "homepage": "http://00frank.github.io/hacker-news",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://00frank.github.io/hacker-news",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
